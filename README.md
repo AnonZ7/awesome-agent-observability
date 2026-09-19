@@ -166,6 +166,7 @@ Standardized tasks for measuring agent capability and regressions over time.
 - [AgentBench](https://github.com/THUDM/AgentBench) — Multi-environment benchmark for evaluating LLMs as agents across diverse tasks.
 - [HELM](https://github.com/stanford-crfm/helm) — Stanford's Holistic Evaluation of Language Models framework and leaderboard.
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) — EleutherAI's de facto framework for few-shot evaluation of language models.
+- [STRATA-Bench](https://github.com/movahedi-ca/strata-bench) — 36-task benchmark scoring whether AI agents disclose, tag, refuse, or model uncertainty on fragmented spatial-temporal market intelligence.
 
 ## Gateways with Built-in Observability
 
